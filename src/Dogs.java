@@ -1,0 +1,8 @@
+public enum Dogs {
+  GERMAN_SHEPHERD,
+  LABRADOR_RETRIEVER,
+  ROTTWEILER,
+  PITBULL,
+  PUG,
+  SHIH_TZU
+}
